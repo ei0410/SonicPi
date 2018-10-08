@@ -1,0 +1,6 @@
+play :D
+sleep 0.5
+play :Es3
+sleep 0.5
+play :Eb3
+sleep 0.5
