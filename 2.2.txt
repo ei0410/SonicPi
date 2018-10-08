@@ -1,0 +1,5 @@
+play 60, pan: -1
+sleep 0.5
+play 60, amp: 2.0
+sleep 0.5
+play :D, pan: 1, amp: 1.5
